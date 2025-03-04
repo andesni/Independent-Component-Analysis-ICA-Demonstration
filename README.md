@@ -1,4 +1,4 @@
-<img width="594" alt="Screenshot 2025-03-04 at 11 56 58 AM" src="https://github.com/user-attachments/assets/ba7e12e3-9851-4381-bacd-30980f7698b5" /># Independent-Component-Analysis-ICA-Demonstration
+# Independent-Component-Analysis-ICA-Demonstration
 This Python script showcases the application of Independent Component Analysis (ICA) using sklearn.decomposition.FastICA to separate mixed signals into their original independent sources.
 
 ## Overview
